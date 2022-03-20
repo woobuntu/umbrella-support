@@ -14,6 +14,7 @@ export default function Title() {
             marginRight: "1rem",
           }}
         />
+
         <Typography>함께쓰는우산 후원안내</Typography>
       </Toolbar>
     </AppBar>
